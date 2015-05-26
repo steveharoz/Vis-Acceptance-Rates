@@ -9,11 +9,13 @@ The following people have also contributed:
 * [T.J. Jankun-Kelly](http://www.cse.msstate.edu/~tjk/)
 * [Silvia Miksch](http://www.donau-uni.ac.at/en/universitaet/whois/05951/index.php)
 * [Tamara Munzner](http://www.cs.ubc.ca/~tmm/)
+* [Bilal Alsallakh](http://cvast.tuwien.ac.at/~bilal/)
 
 **Please feel free to message Steve Haroz (@sharoz) if you'd like to contribute**
 
 TODO: 
 
 * Fill in more recent data
-* [Incorperate Bilal's data](https://docs.google.com/spreadsheets/d/1ueJ2_j9wzsIffp6hOV7L4vqmkBPRMxX7tKYUMFDeXnk/)
+* ~~[Incorperate Bilal's data](https://docs.google.com/spreadsheets/d/1ueJ2_j9wzsIffp6hOV7L4vqmkBPRMxX7tKYUMFDeXnk/)~~
 * (maybe) Find URLs for proceedings sources to confirm no copy paste errors
+* (maybe) Add attendance data
