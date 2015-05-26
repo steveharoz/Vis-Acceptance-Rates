@@ -15,4 +15,5 @@ The following people have also contributed:
 TODO: 
 
 * Fill in more recent data
+* [Incorperate Bilal's data](https://docs.google.com/spreadsheets/d/1ueJ2_j9wzsIffp6hOV7L4vqmkBPRMxX7tKYUMFDeXnk/)
 * (maybe) Find URLs for proceedings sources to confirm no copy paste errors
