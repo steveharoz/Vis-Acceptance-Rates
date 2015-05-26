@@ -1,9 +1,106 @@
 Venue,Date,Submitted,Accepted,Rate,Source
-CHI,2011,1540,409,0.2656,
-CHI papers,2011,1012,306,0.3024,
-CHI notes,2011,514,103,0.2004,
-CHI,2012,1577,,0.23,Notification email
-InfoVis,2011,172,44,0.2558,
-InfoVis,2012,178,44,0.2472,Notification email
-SciVis,2011,194,49,0.2526,
-UIST,2011,262,67,0.2557,
+CHI papers,2011,1012,306,30.24%,(SH) url?
+CHI notes,2011,514,103,20.04%,(SH) url?
+InfoVis,2011,172,44,25.58%,(SH) url?
+InfoVis,2012,178,44,24.72%,Notification email (SH)
+InfoVis,2010,135,35,26%,eagereyes.org/acceptance-rates
+InfoVis,2009,141,37,26%,eagereyes.org/acceptance-rates
+InfoVis,2008,107,28,26%,eagereyes.org/acceptance-rates
+InfoVis,2007,116,27,23%,eagereyes.org/acceptance-rates
+InfoVis,2006,104,24,23%,eagereyes.org/acceptance-rates
+InfoVis,2005,114,31,27%,eagereyes.org/acceptance-rates
+InfoVis,2004,89,27,30%,eagereyes.org/acceptance-rates
+InfoVis,2003,90,29,32%,eagereyes.org/acceptance-rates
+InfoVis,2002,78,23,30%,eagereyes.org/acceptance-rates
+InfoVis,2001,63,22,35%,eagereyes.org/acceptance-rates
+InfoVis,2000,?,20,?,eagereyes.org/acceptance-rates
+InfoVis,1999,47,19,40%,eagereyes.org/acceptance-rates
+InfoVis,1998,?,18,?,eagereyes.org/acceptance-rates
+InfoVis,1997,27,16,59%,eagereyes.org/acceptance-rates
+InfoVis,1996,34,19,56%,eagereyes.org/acceptance-rates
+InfoVis,1995,37,18,49%,eagereyes.org/acceptance-rates
+SciVis,2011,194,49,25.26%,(SH) url?
+SciVis,2010,185,49,26%,eagereyes.org/acceptance-rates
+SciVis,2009,202,54,27%,eagereyes.org/acceptance-rates
+SciVis,2008,197,50,25%,eagereyes.org/acceptance-rates
+SciVis,2007,216,56,26%,eagereyes.org/acceptance-rates
+SciVis,2006,228,63,28%,eagereyes.org/acceptance-rates
+SciVis,2005,268,88,33%,eagereyes.org/acceptance-rates
+SciVis,2004,167,46,28%,eagereyes.org/acceptance-rates
+SciVis,2003,192,63,33%,eagereyes.org/acceptance-rates
+SciVis,2002,172,58,34%,eagereyes.org/acceptance-rates
+SciVis,2001,152,51,34%,eagereyes.org/acceptance-rates
+SciVis,2000,151,52,34%,eagereyes.org/acceptance-rates
+SciVis,1999,129,47,36%,eagereyes.org/acceptance-rates
+SciVis,1998,118,50,42%,eagereyes.org/acceptance-rates
+SciVis,1997,170,44,26%,eagereyes.org/acceptance-rates
+SciVis,1996,101,43,43%,eagereyes.org/acceptance-rates
+SciVis,1995,102,41,40%,eagereyes.org/acceptance-rates
+SciVis,1994,91,41,45%,eagereyes.org/acceptance-rates
+SciVis,1993,?,41,?,eagereyes.org/acceptance-rates
+SciVis,1992,?,44,?,eagereyes.org/acceptance-rates
+SciVis,1991,?,41,?,eagereyes.org/acceptance-rates
+SciVis,1990,?,45,?,eagereyes.org/acceptance-rates
+EuroVis,2010,164,48,29%,eagereyes.org/acceptance-rates
+EuroVis,2009,143,41,29%,eagereyes.org/acceptance-rates
+EuroVis,2008,143,45,31%,eagereyes.org/acceptance-rates
+EuroVis,2007,93,35,38%,eagereyes.org/acceptance-rates
+EuroVis,2006,98,43,44%,eagereyes.org/acceptance-rates
+EuroVis,2005,102,36,35%,eagereyes.org/acceptance-rates
+EuroVis,2004,82,39,48%,eagereyes.org/acceptance-rates
+EuroVis,2003,62,30,48%,eagereyes.org/acceptance-rates
+EuroVis,2002,80,31,39%,eagereyes.org/acceptance-rates
+EuroVis,2001,68,33,49%,eagereyes.org/acceptance-rates
+EuroVis,2000,66,27,41%,eagereyes.org/acceptance-rates
+EuroVis,1999,64,30,47%,eagereyes.org/acceptance-rates
+VAST,2010,94,26,28,eagereyes.org/acceptance-rates
+VAST,2009,69,26,38%,eagereyes.org/acceptance-rates
+VAST,2008,58,21,36%,eagereyes.org/acceptance-rates
+VAST,2007,57,24,42%,eagereyes.org/acceptance-rates
+VAST,2006,60,26,43%,eagereyes.org/acceptance-rates
+AVI,2010,133,27,20%,eagereyes.org/acceptance-rates
+AVI,2008,117,32,27%,eagereyes.org/acceptance-rates
+AVI,2006,?,32,~25%,eagereyes.org/acceptance-rates
+UIST,2011,262,67,25.57%,(SH) url?
+UIST,2010,?,?,?,eagereyes.org/acceptance-rates
+UIST,2009,183,33,18%,eagereyes.org/acceptance-rates
+UIST,2008,115,25,22%,eagereyes.org/acceptance-rates
+UIST,2007,129,24,19%,eagereyes.org/acceptance-rates
+UIST,2006,?,?,?,eagereyes.org/acceptance-rates
+UIST,2005,159,31,19%,eagereyes.org/acceptance-rates
+UIST,2004,170,36,21%,eagereyes.org/acceptance-rates
+UIST,2003,116,25,22%,eagereyes.org/acceptance-rates
+UIST,2002,?,?,?,eagereyes.org/acceptance-rates
+UIST,2001,?,?,?,eagereyes.org/acceptance-rates
+UIST,2000,?,?,?,eagereyes.org/acceptance-rates
+CHI,2012,1577,?,23%,Notification email (SH)
+CHI,2011,1540,409,26.56%,(SH) url?
+CHI,2010,1346,302,22%,eagereyes.org/acceptance-rates
+CHI,2009,1130,277,25%,eagereyes.org/acceptance-rates
+CHI,2008,714,157,22%,eagereyes.org/acceptance-rates
+CHI,2007,571,142,25%,eagereyes.org/acceptance-rates
+CHI,2006,508,118,23%,eagereyes.org/acceptance-rates
+CHI,2005,372,93,25%,eagereyes.org/acceptance-rates
+CHI,2004,578,93,16%,eagereyes.org/acceptance-rates
+CHI,2003,468,75,16%,eagereyes.org/acceptance-rates
+CHI,2002,414,61,15%,eagereyes.org/acceptance-rates
+CHI,2001,352,69,20%,eagereyes.org/acceptance-rates
+CHI,2000,336,72,21%,eagereyes.org/acceptance-rates
+CHI,1999,312,78,25%,eagereyes.org/acceptance-rates
+CHI,1998,351,81,23%,eagereyes.org/acceptance-rates
+CHI,1997,234,55,24%,eagereyes.org/acceptance-rates
+CHI,1996,256,55,21%,eagereyes.org/acceptance-rates
+CHI,1995,228,66,29%,eagereyes.org/acceptance-rates
+CHI,1994,263,70,27%,eagereyes.org/acceptance-rates
+CHI,1993,330,62,19%,eagereyes.org/acceptance-rates
+CHI,1992,216,67,31%,eagereyes.org/acceptance-rates
+CHI,1991,240,56,23%,eagereyes.org/acceptance-rates
+CHI,1990,260,47,18%,eagereyes.org/acceptance-rates
+CHI,1989,199,54,27%,eagereyes.org/acceptance-rates
+CHI,1988,187,39,21%,eagereyes.org/acceptance-rates
+CHI,1987,166,46,28%,eagereyes.org/acceptance-rates
+CHI,1986,122,47,39%,eagereyes.org/acceptance-rates
+CHI,1985,170,31,18%,eagereyes.org/acceptance-rates
+CHI,1984,?,?,?,eagereyes.org/acceptance-rates
+CHI,1983,176,59,34%,eagereyes.org/acceptance-rates
+CHI,1982,165,75,45%,eagereyes.org/acceptance-rates
