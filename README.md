@@ -12,7 +12,7 @@ The following people have also contributed:
 
 **Please feel free to message Steve Haroz (@sharoz) if you'd like to contribute**
 
-==TODO: 
+TODO: 
 
 * Fill in more recent data
 * (maybe) Find URLs for proceedings sources to confirm no copy paste errors
