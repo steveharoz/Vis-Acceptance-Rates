@@ -1,9 +1,9 @@
 Venue,Date,Submitted,Accepted,Rate,Source
 InfoVis,2015,178,39,21.91%, Notification email
-InfoVis,2014,?,?,?,
-InfoVis,2013,?,?,?,
-InfoVis,2012,178,44,24.72%, Notification email
-InfoVis,2011,172,44,25.58%,(SH) url?
+InfoVis,2014,196,45,22.96%,Bilal
+InfoVis,2013,152,38,25.00%,Bilal
+InfoVis,2012,178,44,24.72%,Bilal
+InfoVis,2011,172,44,25.58%,SH
 InfoVis,2010,135,35,26%,eagereyes.org/acceptance-rates
 InfoVis,2009,141,37,26%,eagereyes.org/acceptance-rates
 InfoVis,2008,107,28,26%,eagereyes.org/acceptance-rates
@@ -20,7 +20,10 @@ InfoVis,1998,?,18,?,eagereyes.org/acceptance-rates
 InfoVis,1997,27,16,59%,eagereyes.org/acceptance-rates
 InfoVis,1996,34,19,56%,eagereyes.org/acceptance-rates
 InfoVis,1995,37,18,49%,eagereyes.org/acceptance-rates
-SciVis,2011,194,49,25.26%,(SH) url?
+SciVis,2014,136,34,25.00%,Bilal
+SciVis,2013,126,31,24.60%,Bilal
+SciVis,2012,154,42,27.27%,Bilal
+SciVis,2011,194,49,25.26%,SH
 SciVis,2010,185,49,26%,eagereyes.org/acceptance-rates
 SciVis,2009,202,54,27%,eagereyes.org/acceptance-rates
 SciVis,2008,197,50,25%,eagereyes.org/acceptance-rates
@@ -43,10 +46,10 @@ SciVis,1992,?,44,?,eagereyes.org/acceptance-rates
 SciVis,1991,?,41,?,eagereyes.org/acceptance-rates
 SciVis,1990,?,45,?,eagereyes.org/acceptance-rates
 EuroVis,2015,160,51,32%,EuroVis opening session
-EuroVis,2014,161,42,26.09%,Bilal (url?)
-EuroVis,2013,177,49,27.68%,Bilal (url?)
-EuroVis,2012,202,52,25.74%,Bilal (url?)
-EuroVis,2011,194,54,27.84%,Bilal (url?)
+EuroVis,2014,161,42,26.09%,Bilal
+EuroVis,2013,177,49,27.68%,Bilal
+EuroVis,2012,202,52,25.74%,Bilal
+EuroVis,2011,194,54,27.84%,Bilal
 EuroVis,2010,164,48,29.27%,eagereyes.org/acceptance-rates
 EuroVis,2009,143,41,28.67%,eagereyes.org/acceptance-rates
 EuroVis,2008,143,45,31.47%,eagereyes.org/acceptance-rates
@@ -60,14 +63,14 @@ EuroVis,2001,68,33,48.53%,eagereyes.org/acceptance-rates
 EuroVis,2000,66,27,40.91%,eagereyes.org/acceptance-rates
 EuroVis,1999,64,30,46.88%,eagereyes.org/acceptance-rates
 EuroVis Short,2015,58,24,41%,EuroVis opening session
-EuroVis Short,2014,43,22,51%,Bilal (url?)
-EuroVis Short,2013,40,18,45%,Bilal (url?)
-EuroVis Short,2012,50,21,41%,Bilal (url?)
-EuroVA,2015,29,?,,Bilal (url?)
-EuroVA,2014,17,11,,Bilal (url?)
-EuroVA,2013,24,12,,Bilal (url?)
-EuroVA,2012,31,17,,Bilal (url?)
-EuroVA,2011,19,14,,Bilal (url?)
+EuroVis Short,2014,43,22,51%,Bilal
+EuroVis Short,2013,40,18,45%,Bilal
+EuroVis Short,2012,50,21,41%,Bilal
+EuroVA,2015,29,?,,Bilal
+EuroVA,2014,17,11,,Bilal
+EuroVA,2013,24,12,,Bilal
+EuroVA,2012,31,17,,Bilal
+EuroVA,2011,19,14,,Bilal
 VAST,2010,94,26,28%,eagereyes.org/acceptance-rates
 VAST,2009,69,26,38%,eagereyes.org/acceptance-rates
 VAST,2008,58,21,36%,eagereyes.org/acceptance-rates
@@ -76,7 +79,7 @@ VAST,2006,60,26,43%,eagereyes.org/acceptance-rates
 AVI,2010,133,27,20%,eagereyes.org/acceptance-rates
 AVI,2008,117,32,27%,eagereyes.org/acceptance-rates
 AVI,2006,?,32,~25%,eagereyes.org/acceptance-rates
-UIST,2011,262,67,25.57%,(SH) url?
+UIST,2011,262,67,25.57%,SH
 UIST,2010,?,?,?,eagereyes.org/acceptance-rates
 UIST,2009,183,33,18%,eagereyes.org/acceptance-rates
 UIST,2008,115,25,22%,eagereyes.org/acceptance-rates
@@ -89,7 +92,7 @@ UIST,2002,?,?,?,eagereyes.org/acceptance-rates
 UIST,2001,?,?,?,eagereyes.org/acceptance-rates
 UIST,2000,?,?,?,eagereyes.org/acceptance-rates
 CHI,2012,1577,?,23%,Notification email (SH)
-CHI,2011,1540,409,26.56%,(SH) url?
+CHI,2011,1540,409,26.56%,SH
 CHI,2010,1346,302,22%,eagereyes.org/acceptance-rates
 CHI,2009,1130,277,25%,eagereyes.org/acceptance-rates
 CHI,2008,714,157,22%,eagereyes.org/acceptance-rates
@@ -119,3 +122,25 @@ CHI,1985,170,31,18%,eagereyes.org/acceptance-rates
 CHI,1984,?,?,?,eagereyes.org/acceptance-rates
 CHI,1983,176,59,34%,eagereyes.org/acceptance-rates
 CHI,1982,165,75,45%,eagereyes.org/acceptance-rates
+VizSec,2014,43,12,27.91%,
+VizSec,2013,30,9,30.00%,
+VizSec,2012,21,12,57.14%,
+VizSec,2011,11,6,54.55%,
+VizSec,2010,27,12,44.44%,
+VizSec,2009,23,10,43.48%,
+VizSec,2008,27,18,66.67%,
+VizSec,2007,16,14,87.50%,
+LDAV,2014,43,12,27.91%,
+LDAV,2013,35,13,37.14%,
+LDAV,2012,34,18,52.94%,
+LDAV,2011,25,14,56.00%,
+BioVis,2013,32,14,43.75%,
+BioVis,2012,32,16,50.00%,
+BioVis,2011,54,20,37.04%,
+PacificVis,2014,99,29,29.29%,
+PacificVis,2013,118,34,28.81%,
+PacificVis,2012,88,30,34.09%,
+PacificVis,2011,81,26,32.10%,
+PacificVis,2010,84,27,32.14%,
+PacificVis,2009,66,26,39.39%,
+PacificVis,2008,99,30,30.30%,
