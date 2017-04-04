@@ -83,8 +83,13 @@ VAST,2006,60,26,43%,eagereyes.org/acceptance-rates
 AVI,2010,133,27,20%,eagereyes.org/acceptance-rates
 AVI,2008,117,32,27%,eagereyes.org/acceptance-rates
 AVI,2006,?,32,~25%,eagereyes.org/acceptance-rates
-UIST,2011,262,67,25.57%,SH
-UIST,2010,?,?,?,eagereyes.org/acceptance-rates
+UIST,2016,384,79,21%,ACM UIST proceedings site
+UIST,2015,297,70,24%,ACM UIST proceedings site
+UIST,2014,333,74,22%,ACM UIST proceedings site
+UIST,2013,317,62,20%,ACM UIST proceedings site
+UIST,2012,288,62,22%,ACM UIST proceedings site
+UIST,2011,262,67,25.57%,ACM UIST proceedings site
+UIST,2010,207,38,18%,ACM UIST proceedings site
 UIST,2009,183,33,18%,eagereyes.org/acceptance-rates
 UIST,2008,115,25,22%,eagereyes.org/acceptance-rates
 UIST,2007,129,24,19%,eagereyes.org/acceptance-rates
@@ -127,7 +132,7 @@ CHI,1988,187,39,21%,eagereyes.org/acceptance-rates
 CHI,1987,166,46,28%,eagereyes.org/acceptance-rates
 CHI,1986,122,47,39%,eagereyes.org/acceptance-rates
 CHI,1985,170,31,18%,eagereyes.org/acceptance-rates
-CHI,1984,?,?,?,eagereyes.org/acceptance-rates
+CHI,1984,?,?,?,(CHI possibly not held in 1984)
 CHI,1983,176,59,34%,eagereyes.org/acceptance-rates
 CHI,1982,165,75,45%,eagereyes.org/acceptance-rates
 VizSec,2014,43,12,27.91%,
