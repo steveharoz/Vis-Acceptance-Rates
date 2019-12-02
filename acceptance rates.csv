@@ -1,5 +1,5 @@
 Venue,Date,Submitted,Accepted,Rate,Source
-InfoVis,2019,214,,, https://twitter.com/ieeevis/status/1122776285460221952
+InfoVis,2019,214,53,24.8%,(note: 4 desk rejects, -2+1 track changes) https://twitter.com/alexrindvis/status/1201541405186953216
 InfoVis,2018,185,47,25.13%, (note: also 2 desk rejects)
 InfoVis,2017,170,39,22.94%,https://twitter.com/NElmqvist/status/848707760220975105
 InfoVis,2016,167,37,22.15%, VIS talk schedule
@@ -89,6 +89,7 @@ VAST,2009,69,26,38%,eagereyes.org/acceptance-rates
 VAST,2008,58,21,36%,eagereyes.org/acceptance-rates
 VAST,2007,57,24,42%,eagereyes.org/acceptance-rates
 VAST,2006,60,26,43%,eagereyes.org/acceptance-rates
+AVI,2018,77,19,24.7%,Alexander handwritten notes (full papers only)
 AVI,2010,133,27,20%,eagereyes.org/acceptance-rates
 AVI,2008,117,32,27%,eagereyes.org/acceptance-rates
 AVI,2006,?,32,~25%,eagereyes.org/acceptance-rates
